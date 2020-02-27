@@ -10,6 +10,6 @@ package com.dbha.jenkins.myapptest;
 public class HelloController {
     @GetMapping
     public String hello() {
-        return "Spring Boot Demo Test!!";
+        return "Spring Boot Demo!!";
     }
 }
